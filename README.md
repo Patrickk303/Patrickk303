@@ -1,12 +1,10 @@
 # Olá, eu sou o Helder Patrick Rodrigues Calixto! 👋
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patrickdatabi)
+
 Sou estudante do 4º semestre de Análise e Desenvolvimento de Sistemas (ADS) na Unifametro e atuo profissionalmente na intersecção entre Dados e Desenvolvimento. Meu objetivo principal é consolidar minha carreira em **Engenharia de Dados**, criando arquiteturas escaláveis, pipelines eficientes e garantindo a qualidade dos dados desde a extração até o uso estratégico.
 
 Atualmente, trabalho como Estagiário de Análise de Dados, onde vou muito além das planilhas: atuo com forte viés de desenvolvimento (*vibe coding*), desenhando fluxos de automação de processos, integrando APIs e implementando agentes de inteligência artificial para resolução de problemas reais de negócios.
-
-<a href="www.linkedin.com/in/patrickdatabi" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de Helder" />
-</a>
 
 ---
 
@@ -18,10 +16,12 @@ Atualmente, trabalho como Estagiário de Análise de Dados, onde vou muito além
 
 ## 🛠️ Tecnologias e Ferramentas
 
-**Linguagens & Banco de Dados:** ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+**Linguagens & Banco de Dados:** 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Versionamento, Automação & IA:** ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+**Versionamento, Automação & IA:** 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-%23FF6611.svg?style=for-the-badge&logo=n8n&logoColor=white)
 
