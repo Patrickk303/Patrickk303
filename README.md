@@ -6,7 +6,7 @@
 
 Sou estudante do 4º semestre de Análise e Desenvolvimento de Sistemas (ADS) na Unifametro e atuo profissionalmente na intersecção entre Dados e Desenvolvimento. Meu objetivo principal é consolidar minha carreira em **Engenharia de Dados**, criando arquiteturas escaláveis, pipelines eficientes e garantindo a qualidade dos dados desde a extração até o uso estratégico.
 
-Atualmente, trabalho como Estagiário de Análise de Dados, onde vou muito além das planilhas: atuo com forte viés de desenvolvimento (*vibe coding*), desenhando fluxos de automação de processos, integrando APIs e implementando agentes de inteligência artificial para resolução de problemas reais de negócios.
+Atualmente, trabalho como Estagiário de Análise de Dados, onde vou muito além das planilhas: atuo com forte viés de desenvolvimento, desenhando fluxos de automação de processos, integrando APIs e implementando agentes de inteligência artificial para resolução de problemas reais de negócios.
 
 ---
 
