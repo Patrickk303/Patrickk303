@@ -12,7 +12,7 @@ Atualmente, trabalho como Estagiário de Análise de Dados, onde vou muito além
 
 ## 🚀 O que estou construindo
 
-- 🏗️ **Foco de Carreira:** Engenharia de Dados, com uma visão analítica aguçada para regras de negócios.
+- 🏗️ **Foco de Carreira:** Engenharia de Dados, com uma visão analítica para garanti a integridade dos dados.
 - ⚙️ **Automação & Orquestração:** Desenvolvendo soluções com **n8n** e estruturando automações com o auxílio de IA.
 - 💻 **Projetos Práticos:** Aplicando conhecimento em cenários reais, como no desenvolvimento do Sistema de Auditorias da graduação.
 
