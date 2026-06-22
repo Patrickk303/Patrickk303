@@ -4,6 +4,12 @@ Sou estudante do 4º semestre de Análise e Desenvolvimento de Sistemas (ADS) na
 
 Atualmente, trabalho como Estagiário de Análise de Dados, onde vou muito além das planilhas: atuo com forte viés de desenvolvimento (*vibe coding*), desenhando fluxos de automação de processos, integrando APIs e implementando agentes de inteligência artificial para resolução de problemas reais de negócios.
 
+<a href="www.linkedin.com/in/patrickdatabi" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de Helder" />
+</a>
+
+---
+
 ## 🚀 O que estou construindo
 
 - 🏗️ **Foco de Carreira:** Engenharia de Dados, com uma visão analítica aguçada para regras de negócios.
@@ -36,7 +42,7 @@ Estou seguindo um roadmap focado em Engenharia de Dados, avançando meus conheci
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Patrickk303&show_icons=true&theme=dark&include_all_commits=true" alt="Estatísticas do GitHub de Helder" />
   </a>
   <a href="https://github.com/Patrickk303">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patrickk303I&layout=compact&langs_count=6&theme=dark" alt="Linguagens mais utilizadas" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patrickk303&layout=compact&langs_count=6&theme=dark" alt="Linguagens mais utilizadas" />
   </a>
 </div>
 
