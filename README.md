@@ -53,3 +53,15 @@ Estou seguindo um roadmap focado em Engenharia de Dados, avançando meus conheci
 <div align="center">
   <i>"A integração de ecossistemas abre um número gigantesco de possibilidades para o nosso aprendizado."</i>
 </div>
+
+---
+
+## 🐍 Minhas Contribuições
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Patrickk303/Patrickk303/output/dist/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Patrickk303/Patrickk303/output/dist/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/Patrickk303/Patrickk303/output/dist/github-contribution-grid-snake.svg">
+  </picture>
+</div>
