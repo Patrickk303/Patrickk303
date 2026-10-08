@@ -1,54 +1,66 @@
+<div align="center">
+
 # Olá, eu sou o Helder Patrick! 👋
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=640&lines=Engenharia+de+Dados;Pipelines+ETL+%7C+SQL+%7C+Python;Automa%C3%A7%C3%A3o+com+n8n+%2B+IA;Transformando+dados+em+decis%C3%B5es" alt="Typing SVG" />
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patrickdatabi)
+[![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Patrickk303)
+
+</div>
+
+---
+
+## 👨‍💻 Sobre mim
 
 <img align="right" src="https://media.tenor.com/6urnucvhtjkAAAAM/lego-batman.gif" width="150" alt="Lego Batman" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patrickdatabi)
+Sou estudante do **4º semestre de Análise e Desenvolvimento de Sistemas (ADS)** na Unifametro e atuo na intersecção entre **Dados e Desenvolvimento**. Meu objetivo é consolidar minha carreira em **Engenharia de Dados**, criando arquiteturas escaláveis, pipelines eficientes e garantindo a qualidade dos dados da extração ao uso estratégico.
 
-Sou estudante do 4º semestre de Análise e Desenvolvimento de Sistemas (ADS) na Unifametro e atuo profissionalmente na intersecção entre Dados e Desenvolvimento. Meu objetivo principal é consolidar minha carreira em **Engenharia de Dados**, criando arquiteturas escaláveis, pipelines eficientes e garantindo a qualidade dos dados desde a extração até o uso estratégico.
+Hoje sou **Estagiário de Análise de Dados**, mas com forte viés de desenvolvimento: desenho fluxos de automação, integro APIs e implemento agentes de IA para resolver problemas reais de negócio.
 
-Atualmente, trabalho como Estagiário de Análise de Dados, onde vou muito além das planilhas: atuo com forte viés de desenvolvimento, desenhando fluxos de automação de processos, integrando APIs e implementando agentes de inteligência artificial para resolução de problemas reais de negócios.
+```sql
+SELECT nome, formacao, cargo_atual, foco
+FROM   profissionais
+WHERE  nome = 'Helder Patrick';
+
+-- nome            | formacao        | cargo_atual                  | foco
+-- Helder Patrick  | ADS (Unifametro)| Estagiário de Análise de Dados| Engenharia de Dados
+```
 
 ---
 
 ## 🚀 O que estou construindo
 
-- 🏗️ **Foco de Carreira:** Engenharia de Dados, com uma visão analítica para garanti a integridade dos dados.
-- ⚙️ **Automação & Orquestração:** Desenvolvendo soluções com **n8n** e estruturando automações com o auxílio de IA.
-- 💻 **Projetos Práticos:** Aplicando conhecimento em cenários reais, como no desenvolvimento do Sistema de Auditorias da graduação.
+- 🏗️ **Foco de carreira:** Engenharia de Dados, com visão analítica para garantir a integridade dos dados.
+- ⚙️ **Automação & orquestração:** soluções com **n8n** e automações estruturadas com auxílio de IA.
+- 💻 **Projetos práticos:** conhecimento aplicado em cenários reais, como o **Sistema de Auditorias** da graduação.
 
-## 🛠️ Tecnologias e Ferramentas
+### 🔄 Como eu penso um pipeline de dados
 
-**Linguagens & Banco de Dados:** 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
+| 1. Extrair | 2. Modelar | 3. Processar | 4. Escalar | 5. Entregar |
+| :-: | :-: | :-: | :-: | :-: |
+| <img src="https://skillicons.dev/icons?i=py" height="40" /> | <img src="https://skillicons.dev/icons?i=postgres" height="40" /> | <img src="https://raw.githubusercontent.com/Patrickk303/Patrickk303/main/assets/spark.svg" height="40" /> | <img src="https://raw.githubusercontent.com/Patrickk303/Patrickk303/main/assets/databricks.svg" height="40" /> | 📊 |
+| APIs, planilhas e bancos com **Python** | Modelagem e consultas em **SQL** | Grandes volumes com **Spark** | Ambiente em **nuvem** | Dados confiáveis para decisão |
 
-**Versionamento, Automação & IA:** 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-%23FF6611.svg?style=for-the-badge&logo=n8n&logoColor=white)
-
-## 📚 O que estou estudando atualmente
-
-Estou seguindo um roadmap focado em Engenharia de Dados, avançando meus conhecimentos em ETL, processamento de grandes volumes de dados e ambientes em nuvem. No momento, minha trilha foca em:
-
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/apache%20spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Databricks](https://img.shields.io/badge/databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+🤖 **n8n + IA** orquestram e automatizam as etapas do fluxo.
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 🛠️ Tecnologias e ferramentas
 
-<div align="center">
-  <a href="https://github.com/Patrickk303">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Patrickk303&show_icons=true&theme=dark&include_all_commits=true" alt="Estatísticas do GitHub de Helder" />
-  </a>
-  <a href="https://github.com/Patrickk303">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patrickk303&layout=compact&langs_count=6&theme=dark" alt="Linguagens mais utilizadas" />
-  </a>
-</div>
+<p>
+  <img src="https://skillicons.dev/icons?i=py,postgres,git,github,docker&perline=5" alt="Python, PostgreSQL, Git, GitHub, Docker" />
+  <img src="https://raw.githubusercontent.com/Patrickk303/Patrickk303/main/assets/n8n.svg" alt="n8n" height="48" />
+  <img src="https://raw.githubusercontent.com/Patrickk303/Patrickk303/main/assets/spark.svg" alt="Apache Spark" height="48" />
+  <img src="https://raw.githubusercontent.com/Patrickk303/Patrickk303/main/assets/databricks.svg" alt="Databricks" height="48" />
+</p>
 
-<br>
+---
+
+## 💬 Para refletir
 
 <div align="center">
   <i>"A integração de ecossistemas abre um número gigantesco de possibilidades para o nosso aprendizado."</i>
@@ -56,7 +68,7 @@ Estou seguindo um roadmap focado em Engenharia de Dados, avançando meus conheci
 
 ---
 
-## 🐍 Minhas Contribuições
+## 🐍 Minhas contribuições
 
 <div align="center">
   <picture>
